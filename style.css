@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url("cine.jpg");
+    font-family: 'Lobster', sans-serif;
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+}
+
+.container{
+    background-color: rgba(199, 25, 25, 0.973);
+    border: 1px solid black;
+}
+
+.container h1 {
+    text-shadow: 0 0 3px white;
+}
+
+.container h2 {
+    text-shadow: 0 0 3px white;
+}
+
+.container p {
+    font-family: sans-serif;
+}
+
